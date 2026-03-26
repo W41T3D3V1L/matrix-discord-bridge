@@ -159,7 +159,3 @@ No license specified yet.
 Built by **M33N4N**
 
 ---
-
-## ⚠️ Disclaimer
-
-This project is intended for educational and development purposes only. Use responsibly.
