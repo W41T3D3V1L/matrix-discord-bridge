@@ -1,0 +1,14 @@
+{
+  "name": "bridge-worker",
+  "type": "module",
+  "main": "bridge.js",
+  "scripts": {
+    "start": "node bridge.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "matrix-js-sdk": "^30.0.0",
+    "mongodb": "^6.3.0",
+    "dotenv": "^16.4.0"
+  }
+}
